@@ -96,6 +96,9 @@ docker compose logs -f
 # Backup
 - Info coming soon
 
+# License
+- This config is for personal use. The server image is distributed under its own license.
+
 # Useful links:
 - [Official Project Zomboid site](https://projectzomboid.com/)
 - [Indifferent Broccoli Docker Image](https://github.com/indifferentbroccoli/projectzomboid-server-docker)
